@@ -88,19 +88,14 @@ Consultation des informations relatives à l'avancement des opérations et suivi
 
 ---
 
-## 📚 Documentation du stage
+## ## 📚 Documentation du stage
 
-Retrouvez les informations détaillées dans les différentes rubriques :
+Retrouvez les informations relatives à mon stage dans les rubriques suivantes :
 
-- 📖 [Consulter le rapport complet de stage](rapport/rapport-de-stage.md)
-- 📘 [Accéder au Wiki du projet](../../wiki)
-- 🏢 [Présentation de CA-GIP et du Cluster CLP](../../wiki/Presentation-de-CA-GIP)
-- 🎯 [Présentation de mes missions](../../wiki/Missions)
-- 💳 [Projet SEPAmail](../../wiki/Projet-SEPAmail)
-- 🛡️ [Déploiement EDR dans la 3PG](../../wiki/Deploiement-EDR-3PG)
-- 📊 [Suivi des déploiements avec Métis](../../wiki/Suivi-Metis)
-- 🛠️ [Outils professionnels](../../wiki/Outils)
-- 🧠 [Compétences et bilan](../../wiki/Competences-et-bilan)
+- 📖 [Consulter le rapport de stage](https://github.com/mbarryveinard12-source/rapport-rapport-de-stage.md)
+- 📘 [Accéder au Wiki du projet](https://github.com/mbarryveinard12-source/rapport-rapport-de-stage.md/wiki)
+
+Les pages détaillées des différents projets et missions seront ajoutées progressivement au Wiki.
 
 ---
 
